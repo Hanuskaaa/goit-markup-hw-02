@@ -1,11 +1,13 @@
 body {
+  font-family: 'Roboto', sans-serif;
 }
-
+.header {
+}
 .navigation-header {
 }
 .logo {
 }
-.dark {
+.logo-dark {
 }
 .navigation-list {
 }
@@ -24,6 +26,8 @@ body {
 .phone-item {
 }
 .phone-link {
+}
+.main {
 }
 .solutions {
 }
@@ -71,7 +75,9 @@ body {
 }
 .portfoli-text {
 }
-.light {
+.footer {
+}
+.logo-light {
 }
 .footer-text {
 }
