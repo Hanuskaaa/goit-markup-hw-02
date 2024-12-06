@@ -168,11 +168,9 @@ button {
 .footer {
   background: #2e2f42;
 }
-.footer-logo {
-  color: #f4f4fd;
-}
+
 .logo-light {
-  color: #4d5ae5;
+  color: #f4f4fd;
 }
 .footer-text {
   color: #f4f4fd;
